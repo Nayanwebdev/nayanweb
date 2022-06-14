@@ -1,3 +1,3 @@
 # nayanweb
-Clone of a Webs sass-less project
+Clone of a Website sass-less project
 https://nayanwebscss.netlify.app/
